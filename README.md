@@ -1,4 +1,4 @@
-# 腾讯信鸽推送 for Cordova
+﻿# 腾讯信鸽推送 for Cordova
 
 SDK     | version
 ------- | --------------------------------
@@ -67,3 +67,5 @@ setTag      | 设计标签事件        |
           console.log(data);
         });
 ```
+
+## test
